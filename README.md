@@ -1,5 +1,5 @@
 # Word-Game
-An interactive word game in python 
+An interactive word game in python. Either you can play or let your computer play for you :)
 
 
 # How to run
